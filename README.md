@@ -108,10 +108,10 @@ This project aims to:
 
 This project was developed by:
 
-- Christina Dewi (20925002)
-- Ulya Halimah (20925008)
-- Susi Komalasari (20925009)
-- Ilmania Syakira (10222118)
+- Christina Dewi
+- Ulya Halimah
+- Susi Komalasari
+- Ilmania Syakira
 
 ## License
 
